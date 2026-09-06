@@ -1,0 +1,16 @@
+{
+  "name": "url-shortener-backend",
+  "version": "1.0.0",
+  "description": "URL Shortener backend (Express) - W2 deliverable",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "nanoid": "^6.0.1"
+  }
+}
